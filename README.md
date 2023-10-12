@@ -11,7 +11,3 @@ up-to-date with the latest developments in the iOS development field.
 ## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rocxteady&show_icons=true&hide_title=true)
-
-## Pinned Repositories
-
-- **[Resting]([https://github.com/rocxteady/Bolts-ObjC](https://github.com/rocxteady/Resting))**: A Swift package offering a simplified interface for HTTP REST requests using both Combine and async/await patterns.
