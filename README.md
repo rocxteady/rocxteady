@@ -1,9 +1,6 @@
 # Hi, I'm Ulaş 👋
 
-I'm an Highly skilled iOS developer with 11+ years of experience designing and building mobile apps for the iOS platform.
-Proficient in Swift, SwiftUI, Xcode, and the iOS frameworks and APIs, with a track record of delivering high-quality,
-user-friendly apps on time and on budget. Strong problem-solver with excellent communication skills and a passion for staying
-up-to-date with the latest developments in the iOS development field.
+Senior iOS Engineer with 12 years of experience, specializing in Swift, UIKit and SwiftUI, looking for senior or lead roles. Experienced in sports, fintech, and iGaming industries.
 
 - 🌐 Find me on [LinkedIn](https://www.linkedin.com/in/ulassancak)
 - 📫 Reach me at: ulas.sancak@hotmail.com.tr
