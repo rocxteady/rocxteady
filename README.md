@@ -1,10 +1,34 @@
 # Hi, I'm Ulaş 👋
 
-iOS Engineer with 12+ years of experience, specializing in Swift, UIKit and SwiftUI. Experienced in sports, fintech, and iGaming industries.
+Lead iOS Engineer with team lead experience based in Istanbul, building high-quality mobile products and SDKs.
 
-- 🌐 Find me on [LinkedIn](https://www.linkedin.com/in/ulassancak)
-- 📫 Reach me at: ulas.sancak@hotmail.com.tr
+Over the past 14+ years I've worked on fintech, payments, sports betting, crypto wallets and consumer apps used by millions of users. I enjoy designing scalable architectures, leading engineering teams, mentoring developers, and turning complex product ideas into polished mobile experiences.
 
-## GitHub Stats
+### What I work with
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rocxteady&show_icons=true&hide_title=true)
+- 📱 iOS — Swift, SwiftUI, UIKit, Combine, Swift Concurrency
+- 🤖 Android — Kotlin, Jetpack Compose
+- 🏗️ Architecture — MVVM, TCA, Redux, Modular SDKs, SOLID
+- ⚙️ DevOps — Fastlane, CI/CD, Firebase, App Store Connect
+- 🤖 AI-Assisted Development — Claude Code, OpenAI Codex, Cursor
+
+### Currently
+
+- 🚀 Mobile Engineering Manager & iOS Tech Lead @ OBSS
+- 💳 Building payment SDKs and merchant integrations
+- 👥 Leading cross-functional mobile teams
+- 🧩 Building developer tools, reusable architectures and open-source projects
+
+### Interests
+
+- Mobile Architecture
+- SDK Development
+- Agentic AI & Developer Tooling
+- Crypto & Web3
+- Performance Optimization
+
+---
+
+🌐 **LinkedIn:** https://linkedin.com/in/ulassancak
+
+📫 **Email:** ulas.sancak@hotmail.com.tr
